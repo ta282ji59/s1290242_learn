@@ -1,11 +1,9 @@
 import setuptools
 
-with open('README.md', 'r') as fh:
-    long_description = fh.read()
 
 setuptools.setup(
     name="s1290242_learn",
-    version='2023.08.02.01',
+    version='1.0.0',
     author='TatsuyaTsuji',
     author_email='s1290242@u-aizu.ac.jp',
     description='This software is being developed at the University of Aizu, Aizu-Wakamatsu, Fukushima, Japan',
