@@ -24,6 +24,7 @@ setuptools.setup(
         'urllib3',
         'Pillow',
         'numpy',
+        'pami',
     ],
     extras_require={
         'gpu':  ['cupy', 'pycuda'],
