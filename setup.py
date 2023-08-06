@@ -7,7 +7,6 @@ setuptools.setup(
     author='TatsuyaTsuji',
     author_email='s1290242@u-aizu.ac.jp',
     description='This software is being developed at the University of Aizu, Aizu-Wakamatsu, Fukushima, Japan',
-    long_description=long_description,
     long_description_content_type='text/markdown',
     packages=setuptools.find_packages(),
     url='https://github.com/todorokitai/s1290242_learn/',
